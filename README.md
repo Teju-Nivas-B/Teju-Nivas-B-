@@ -28,8 +28,8 @@ Hi, I'm Teju-Nivas-B 👋
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Teju-Nivas-B&show_icons=true&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Teju-Nivas-B&theme=dark" />
 </div>
 
 ---
