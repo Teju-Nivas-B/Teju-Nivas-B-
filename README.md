@@ -6,11 +6,20 @@ Hi, I'm Teju-Nivas-B 👋
 
 ---
 
+
 ### 💻 Full-stack Developer | Tech Enthusiast
 
 🔹 Building cool stuff with code  
 🔹 Always learning new technologies  
 🔹 Open to collaborations
+
+---
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark" />
+</div>
 
 ---
 
@@ -24,6 +33,7 @@ Hi, I'm Teju-Nivas-B 👋
 ![SAP Analytics Cloud](https://img.shields.io/badge/-SAP%20Analytics%20Cloud-0CCDE4?style=flat-square&logo=sap&logoColor=white)
 
 ---
+
 
 ## 🎯 Featured Projects
 
