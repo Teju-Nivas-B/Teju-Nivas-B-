@@ -1,4 +1,4 @@
-Hi, I'm Teju Nivas Binkam 👋
+Hi, I'm Teju-Nivas-B 👋
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -41,6 +41,8 @@ Hi, I'm Teju Nivas Binkam 👋
 | **INTERACTIVE AUDITORY–SCHOLASTIC CHATBOT SYSTEM FOR VISUALLY IMPAIRED** | •	An AI-based voice-interactive chatbot designed specifically for visually impaired users |
 | **TRANSLITERATION TOOL FOR STREET SIGNS** | •	An AI-based tool designed to recognize and transliterate text from street signs |
 | **Automated Ledger for Expense Tracking (Finance & Data Management)** | An automated ledger in Google Sheets to track income and expenses efficiently |
+| **Smart Waste Management System (Sustainability & Tech)** | A website with a daily reminder tool for efficient waste segregation |
+| **Multilingual Conversational Loan Advisor (AI & Finance)** | An AI-based virtual assistant to provide loan guidance and financial literacy |
 
 ---
 
