@@ -58,6 +58,7 @@ Hi, I'm Teju-Nivas-B 👋
 | Cyber Job Simulation | Deloitte |
 | Cybersecurity Analyst Job Simulation | TATA |
 | ESG Job Simulation | TATA |
+| Introducing SAP BusinessObjects BI Solutions | SAP |
 ---
 
 ## 📬 Let's Connect
